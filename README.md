@@ -1,35 +1,52 @@
 # Python Basics Journey
+
 This repository contains my Python practice as I begin my journey into Machine Learning, focusing on building strong fundamentals and real-world problem-solving skills.
+
 A daily learning repository where I practice Python fundamentals and build small projects while learning from zero.
 
-## About This Repository
+---
 
-This repository documents my Python learning journey. 
-It includes basic practice files, simple logic building, and small mini projects that combine multiple concepts together.
+## 📌 About This Repository
 
-## Author
+This repository documents my Python learning journey.  
+It includes:
+- Basic concept practice  
+- Logic building  
+- Mini projects combining multiple topics  
 
-Shaurya Parashar
+---
 
-## Topics Covered
+## 📚 Topics Covered
 
-- Variables and Data Types
-- Input and Type Casting
-- Operators
-- If-Else Conditional Statements
-- Basic Project Building
+### Day 1
+- Variables and Data Types  
+- Input and Type Casting  
+- Operators  
+- If-Else Conditional Statements  
+- Mini Project: Smart Shopping Checkout Simulator  
 
-## Mini Projects
+### Day 2
+- Strings in Python (basics, indexing, slicing, methods)
 
-- Smart Shopping Checkout Simulator
+---
 
-## Repository Structure
+## 🚀 Mini Projects
+
+- 🛒 Smart Shopping Checkout Simulator (Day 1)
+
+---
+
+## 📂 Repository Structure
 
 ```text
 python-basics-journey/
 ├── README.md
-├── variables_and_datatypes.py
-├── input_and_typecasting.py
-├── operators.py
-├── if_else.py
-└── smart_checkout.py
+├── day-01/
+│   ├── 01_variables_and_datatypes.py
+│   ├── 02_input_and_typecasting.py
+│   ├── 03_operators.py
+│   ├── 04_if_else.py
+│   └── 05_smart_checkout.py
+│
+├── day-02/
+│   └── 06_strings_practice.py
