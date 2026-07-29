@@ -68,12 +68,21 @@ python-basics-journey/
 │   ├── 02_input_and_typecasting.py
 │   ├── 03_operators.py
 │   ├── 04_if_else.py
-│   └── Project/
-│       └── 05_smart_checkout.py
+│   └── 05_smart_checkout.py
 │
 ├── day-02/
 │   └── 06_strings_practice.py
 │
-└── day-03/
-    └── Project/
-        └── 07_smart_checkout_v2.py
+├── day-03/
+│   └── Project/
+│       └── 07_smart_checkout_v2.py
+│
+├── day-04/
+│   └── 08_functions_and_modules.py
+│
+└── day-05/
+    ├── 09_data_structure.py
+    ├── 10_tuples.py
+    ├── 11_sets_and_set_methods.py
+    └── 12_dictionaries.py
+```
